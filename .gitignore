@@ -1,0 +1,11 @@
+/tools/taxy/node_modules
+/tools/taxy/coverage
+/tools/taxy/build
+/tools/taxy/.DS_Store
+/tools/taxy/.env
+/tools/taxy/.env.local
+/tools/taxy/.env.development.local
+/tools/taxy/.env.test.local
+/tools/taxy/.env.production.local
+/tools/taxy/.history
+/tools/taxy/secrets.*.js
